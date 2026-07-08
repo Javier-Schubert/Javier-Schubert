@@ -2,28 +2,45 @@
 
 Data & AI Engineer @ Bayer Consumer Health
 
-Building scalable data platforms with Azure, Databricks and AI.
-
-## 📊 GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Javier-Schubert&theme=tokyonight)](https://github.com/ryorofile-trophy)
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Javier-Schubert&theme=tokyonight)
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Javier-Schubert&theme=tokyo-night)
-
-## 💻 Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=python,azure,github,docker,terraform,powershell)
+Building scalable Data & AI Platforms with Azure, Databricks, PySpark and SQL.
 
 ## 🚀 About Me
 
-- Data Engineering
-- Databricks & Delta Lake
-- Azure Data Factory
-- Lakehouse Architecture
-- AI & Copilot Enablement
+- Designing enterprise-scale Data & AI Platforms
+- Building Lakehouse architectures on Azure & Databricks
+- Developing scalable data pipelines with PySpark
+- Enabling AI use cases and Microsoft Copilot adoption
+- Turning data into actionable business insights
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,azure,github,vscode" />
+</p>
+
+### Data Engineering
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Javier-Schubert&theme=tokyo-night)
+
+## 🎯 Current Focus
+
+- Data Platform Engineering
+- Lakehouse Architectures
+- Databricks Asset Bundles
+- AI Enablement & Copilot
+- Azure Data Engineering
+
