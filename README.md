@@ -6,15 +6,15 @@ Building scalable data platforms with Azure, Databricks and AI.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javier-Schubert&show_icons=true&theme=tokyonight)
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DEIN_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Javier-Schubert&theme=tokyonight)
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DEIN_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Javier-Schubert&theme=tokyo-night)
 
 ## 💻 Tech Stack
 
