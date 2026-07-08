@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Javi
 
-<!--
-**Javier-Schubert/Javier-Schubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & AI Engineer @ Bayer Consumer Health
 
-Here are some ideas to get you started:
+Building scalable data platforms with Azure, Databricks and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DEIN_USERNAME&theme=tokyonight)
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DEIN_USERNAME&theme=tokyo-night)
+
+## 💻 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=python,azure,github,docker,terraform,powershell)
+
+## 🚀 About Me
+
+- Data Engineering
+- Databricks & Delta Lake
+- Azure Data Factory
+- Lakehouse Architecture
+- AI & Copilot Enablement
