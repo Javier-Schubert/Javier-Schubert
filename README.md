@@ -6,7 +6,7 @@ Building scalable data platforms with Azure, Databricks and AI.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javier-Schubert&show_icons=true&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Javier-Schubert&theme=tokyonight)](https://github.com/ryorofile-trophy)
 
 ## 🔥 Contribution Streak
 
