@@ -14,7 +14,7 @@ building reusable frameworks, and accelerating AI adoption across the enterprise
 - ☁️ Azure Data Engineering
 - 🔥 Databricks & Lakehouse Architecture
 - ⚡ PySpark & Distributed Processing
-- 🤖 AI Enablement & Microsoft Copilot
+- 🤖 AI Enablement
 - 📊 Data Products & Analytics
 
 ---
